@@ -23,7 +23,6 @@ The dashboard enables stakeholders to monitor business KPIs, evaluate sales effi
 - Power BI
 - Power Query
 - DAX
-- Excel
 
 ---
 
@@ -117,7 +116,7 @@ DIVIDE([Total Revenue], [Total Customer])
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/images/dashboard.png)
+![Dashboard Preview](screenshots/project2-overview.PNG)
 
 ---
 
@@ -136,29 +135,6 @@ DIVIDE([Total Revenue], [Total Customer])
 - Data Cleaning & Transformation
 - Data Modeling
 - DAX Calculations
-- Time Intelligence
-- KPI Analysis
-- Business Intelligence Reporting
 - Data Visualization
-- Customer Analytics
-
+  
 ---
-
-## Repository Structure
-
-```text
-.
-├── reports/
-│   └── PowerBI-Superstore-Sales-Dashboard.pbix
-├── assets/
-│   └── images/
-│       └── dashboard.png
-├── docs/
-├── README.md
-```
-
----
-
-## Author
-
-Trung Nguyen
